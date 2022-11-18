@@ -278,6 +278,14 @@ body {
 #menu li:hover {
   background-color: rgb(235, 235, 235);
 }
+
+/* Hidden menu in phone */
+@media only screen and (max-width: 600px) {
+  #menu {
+    display: none;
+  }
+}
+
 footer.site-footer {
   background-color: #e9eaea;
   background-image: url(../image/logo.png);
