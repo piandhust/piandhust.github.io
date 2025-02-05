@@ -1,4 +1,4 @@
-### [Demo](https://piandhust.github.io/) | [Tailieubkhn](https://www.tailieubkhn.com/) | [Viblo organization](https://viblo.asia/o/piandhust)
+### [Demo](https://piandhust.github.io/) 
 Website for team HUST&amp;PI
 
 <div id="header" align="center">
